@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title>Home Page</title>
+</head>
+
+    <body>
+
+        <div>
+            <h1>This is my {{name}} page!</h1>
+            <p>
+                Today is: {{date}}
+                {{#user}}
+                "Welcome {{user.username}}"
+                {{/user}}
+            </p>
+
+        </div>
+        
+        
+
+    </body>
+
+</html>
