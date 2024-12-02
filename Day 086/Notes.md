@@ -4,6 +4,26 @@ Flask To-Do List Project – Part 1
 
 Start the to-do list project by creating the basic web server with Flask.
 
+##### Day 87 – 11/30/24
+
+Flask To-Do List Project – Part 2
+
+Develop templates and set up the initial to-do list structure.
+
+##### Day 88 – 12/01/24
+
+Flask To-Do List Project – Part 3
+
+Implement logic to change the frontend and backend with interactive routes.
+
+##### Day 89 – 12/02/24
+
+Flask Task List Project – Part 4
+
+Finalize the route interaction and create the editing template to modify tasks.
+
+
+
 ---
 
 **Instructions to Run the Flask Project:**
